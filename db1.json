@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "status": "OK"
+  }, 
+  "response": {
+    "status": "success",
+    "users": [
+        {"userId": 123, "status": "APPROVED"},
+        {"userId": 124, "status": "PENDING"},
+        {"userId": 125, "status": "BLOCKED"}
+   ]
+  }
+}
